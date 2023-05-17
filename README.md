@@ -8,6 +8,10 @@ For more info on the break down of the ngx_http_limit_req_module see:
 
 https://nginx.org/en/docs/http/ngx_http_limit_req_module.html
 
+For a deep dive on the Nginx rate limit module see Nginx's own blog:
+
+https://www.nginx.com/blog/rate-limiting-nginx/
+
 ## Build & Run:
 
 To build the image:
